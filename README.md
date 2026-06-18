@@ -5,12 +5,12 @@ SEG3503
 | Cas de Test | Résultat Escompté | Résultats Actuels | Verdict |
 |-------------|-------------------|-------------------|---------|
 | TC-R01 : Tous les champs valides | accepted | ![TC-R01](assets/image-1.png) | Pass |
-| TC-R02 : UserName vide | erreur UserName | ![TC-R02](assets/ex1_page1.png) | Pass |
-| TC-R03 : Email invalide | erreur Email | ![TC-R03](assets/ex1_page1.png) | Pass |
-| TC-R04 : Age = 0 | erreur Age | ![TC-R04](assets/ex1_page1.png) | Pass |
-| TC-R05 : Age négatif | erreur Age | ![TC-R05](assets/ex1_page1.png) | Pass |
-| TC-R06 : Age trop grand | erreur Age | ![TC-R06](assets/ex1_page2.png) | Pass |
-| TC-R07 : Tous vides | erreurs multiples | ![TC-R07](assets/ex1_page2.png) | Pass |
+| TC-R02 : UserName vide | erreur UserName | ![TC-R02](assets/image.png) | Pass |
+| TC-R03 : Email invalide | erreur Email | ![TC-R03](assets/image2.png) | Pass |
+| TC-R04 : Age = 0 | erreur Age | ![TC-R04](assets/image3.png) | Pass |
+| TC-R05 : Age négatif | erreur Age | ![TC-R05](assets/image4.png) | Pass |
+| TC-R06 : Age trop grand | erreur Age | ![TC-R06](assets/image5.png) | Pass |
+| TC-R07 : Tous vides | erreurs multiples | ![TC-R07](assets/image6.png) | Pass |
 
 
 
