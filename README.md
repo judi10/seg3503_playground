@@ -4,7 +4,7 @@ SEG3503
 
 | Cas de Test | Résultat Escompté | Résultats Actuels | Verdict |
 |-------------|-------------------|-------------------|---------|
-| TC-R01 : Tous les champs valides | accepted | ![TC-R01](assets/ex1_page1.png) | Pass |
+| TC-R01 : Tous les champs valides | accepted | ![TC-R01](assets/image-1.png) | Pass |
 | TC-R02 : UserName vide | erreur UserName | ![TC-R02](assets/ex1_page1.png) | Pass |
 | TC-R03 : Email invalide | erreur Email | ![TC-R03](assets/ex1_page1.png) | Pass |
 | TC-R04 : Age = 0 | erreur Age | ![TC-R04](assets/ex1_page1.png) | Pass |
