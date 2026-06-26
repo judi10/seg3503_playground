@@ -48,6 +48,12 @@ public class FizzbuzzTest {
         assertEquals(List.of("1", "2"), result);
     }
 
+    @Test
+    void test5(){
+        String result = fbConverter.fizzbuzz(5);
+        assertEquals("Buzz", result);
+    }
+
     
 
     
