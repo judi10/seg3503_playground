@@ -9,30 +9,37 @@ public class FizzbuzzTest {
 
     @Test// test que 1 retourne "1"
     void test1(){
-        String result = fbConverter.converter(1);
+        String result = fbConverter.fizzbuzz(1);
         assertEquals("1",result);
     }
     @Test 
     void test2(){
-        String result = fbConverter.converter(2);
+        String result = fbConverter.fizzbuzz(2);
         assertEquals("2",result);
     }
     @Test
     void test3(){
-        String result = fbConverter.converter(3);
+        String result = fbConverter.fizzbuzz(3);
         assertEquals("Fizz",result);
     }
 
     @Test
     void test6(){
-        String result = fbConverter.converter(6);
+        String result = fbConverter.fizzbuzz(6);
         assertEquals("Fizz",result);
     }
 
     @Test
     void test9(){
-        String result = fbConverter.converter(9);
+        String result = fbConverter.fizzbuzz(9);
         assertEquals("Fizz",result);
+    }
+    
+    @Test
+    void test15(){
+        String result = fbConverter.fizzbuzz(15);
+        assertEquals("FizzBuzz", result);
+
     }
 
     
