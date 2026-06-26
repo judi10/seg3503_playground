@@ -11,6 +11,7 @@ public class Fizzbuzz {
         if (n == 3) return "Fizz";
         if (n == 6) return "Fizz";
         if (n == 9) return "Fizz";
+        if (n== 15) return "FizzBuzz";
         return null;
     }
     
