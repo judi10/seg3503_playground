@@ -1,4 +1,7 @@
 package lib;
+import java.util.ArrayList;
+import java.util.List;
+
 
 public class Fizzbuzz {
     public Fizzbuzz(){
@@ -13,6 +16,15 @@ public class Fizzbuzz {
         if (n == 9) return "Fizz";
         if (n %15 == 0) return "FizzBuzz";
         return null;
+    }
+
+    public List<String> fizzbuzz(int n, int m){
+        ArrayList<String> liste = new ArrayList<>();
+
+        liste.add(fizzbuzz(n));
+        liste.add(fizzbuzz(2));
+
+        return liste;
     }
     
     
