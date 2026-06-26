@@ -60,6 +60,12 @@ public class FizzbuzzTest {
         assertEquals("Fizz", result);
     }
 
+    @Test
+    void test0(){
+        String result = fbConverter.fizzbuzz(0);
+        assertEquals("0", result);
+    }
+
 
     
 
