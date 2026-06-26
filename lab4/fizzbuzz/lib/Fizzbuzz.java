@@ -9,6 +9,7 @@ public class Fizzbuzz {
     }
 
     public String fizzbuzz(int n) {
+        if(n == 0) return "0";
         if (n %15 == 0) return "FizzBuzz";
         else if(n % 5 == 0) return "Buzz";
         else if (n % 3 == 0) return "Fizz";
