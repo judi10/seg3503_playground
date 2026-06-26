@@ -1,6 +1,7 @@
 package test;
 import static org.junit.jupiter.api.Assertions.assertEquals ;
 import org.junit.jupiter.api.Test;
+import java.util.List;
 
 import lib.Fizzbuzz;
 
@@ -39,7 +40,12 @@ public class FizzbuzzTest {
     void test15(){
         String result = fbConverter.fizzbuzz(15);
         assertEquals("FizzBuzz", result);
+    }
 
+    @Test
+    void test_listfizzbuzz(){
+        List<String> result = fbConverter.fizzbuzz(1, 2);
+        assertEquals(List.of("1", "2"), result);
     }
 
     
