@@ -9,15 +9,10 @@ public class Fizzbuzz {
     }
 
     public String fizzbuzz(int n) {
-        if (n == 1) return "1";
-        if (n == 2) return "2";
-        if (n == 3) return "Fizz";
-        if (n == 6) return "Fizz";
-        if (n == 9) return "Fizz";
         if (n %15 == 0) return "FizzBuzz";
-        if(n % 5 == 0) return "Buzz";
-        if (n == 237) return "237";
-        return null;
+        else if(n % 5 == 0) return "Buzz";
+        else if (n % 3 == 0) return "Fizz";
+        else return Integer.toString(n);
     }
 
     public List<String> fizzbuzz(int n, int m){
