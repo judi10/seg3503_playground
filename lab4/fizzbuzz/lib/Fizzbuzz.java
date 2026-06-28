@@ -25,6 +25,10 @@ public class Fizzbuzz {
 
         return liste;
     }
+
+    public List<String> fizzbuzz() {
+        return fizzbuzz(1, 100);
+    }
     
     
 }
