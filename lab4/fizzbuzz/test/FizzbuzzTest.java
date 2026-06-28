@@ -67,6 +67,13 @@ public class FizzbuzzTest {
     }
 
 
+    @Test
+    void testFizzbuzzWithoutArguments() {
+        List<String> result = fbConverter.fizzbuzz();
+        assertEquals(fbConverter.fizzbuzz(1, 100), result);
+    }
+
+    
     
 
     
