@@ -81,4 +81,60 @@ class TwitterTest {
     //   // isMentionned("me") should be false
     //   // isMentionned("meat") should be false
     // }
+
+    @Test
+    void isMentionned_lookForAtSymbol() {
+
+        Twitter twitter = partialMockBuilder(Twitter.class)
+          .addMockedMethod("loadTweet")
+          .createMock();
+
+        expect(twitter.loadTweet()).andReturn("hello @me").times(2);
+        replay(twitter);
+
+        assertEquals(true, twitter.isMentionned("me"));
+        assertEquals(false, twitter.isMentionned("you"));
+    }
+
+    @Test
+    void isMentionned_dontReturnSubstringMatches() {
+
+        Twitter twitter = partialMockBuilder(Twitter.class)
+          .addMockedMethod("loadTweet")
+          .createMock();
+
+        expect(twitter.loadTweet()).andReturn("hello @meat").times(2);
+        replay(twitter);
+
+        assertEquals(false, twitter.isMentionned("me"));
+        assertEquals(true, twitter.isMentionned("meat"));
+    }
+
+    @Test
+    void isMentionned_superStringNotFound() {
+
+        Twitter twitter = partialMockBuilder(Twitter.class)
+          .addMockedMethod("loadTweet")
+          .createMock();
+
+        expect(twitter.loadTweet()).andReturn("hello @me").times(2);
+        replay(twitter);
+
+        assertEquals(true, twitter.isMentionned("me"));
+        assertEquals(false, twitter.isMentionned("meat"));
+    }
+
+    @Test
+    void isMentionned_handleNull() {
+
+        Twitter twitter = partialMockBuilder(Twitter.class)
+          .addMockedMethod("loadTweet")
+          .createMock();
+
+        expect(twitter.loadTweet()).andReturn(null).times(2);
+        replay(twitter);
+
+        assertEquals(false, twitter.isMentionned("me"));
+        assertEquals(false, twitter.isMentionned("meat"));
+    }
 }
