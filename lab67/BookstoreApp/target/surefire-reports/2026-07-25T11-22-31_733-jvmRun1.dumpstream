@@ -1,0 +1,377 @@
+# Created at 2026-07-25T11:22:34.375
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '  .   ____          _            __ _ _'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '  .   ____          _            __ _ _'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+
+# Created at 2026-07-25T11:22:34.380
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream ' /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command ' /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+
+# Created at 2026-07-25T11:22:34.384
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+
+# Created at 2026-07-25T11:22:34.386
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream ' \\/  ___)| |_)| | | | | || (_| |  ) ) ) )'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command ' \\/  ___)| |_)| | | | | || (_| |  ) ) ) )'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+
+# Created at 2026-07-25T11:22:34.390
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '  '  |____| .__|_| |_|_| |_\__, | / / / /'.
+
+# Created at 2026-07-25T11:22:34.392
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream ' =========|_|==============|___/=/_/_/_/'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command ' =========|_|==============|___/=/_/_/_/'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+
+# Created at 2026-07-25T11:22:34.395
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream ' :: Spring Boot ::        (v2.1.4.RELEASE)'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command ' :: Spring Boot ::        (v2.1.4.RELEASE)'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+
+# Created at 2026-07-25T11:22:34.519
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '2026-07-25 11:22:34.511  INFO 2868 --- [           main] seg3102.bookstore.Bookstore1Application  : Starting Bookstore1Application v0.0.1-SNAPSHOT on DESKTOP-NC9OFT4 with PID 2868 (C:\Users\Judicael Tokam\Desktop\seg3503\seg3503_playground\lab67\BookstoreApp\bookstore5.jar started by Judicael Tokam in C:\Users\Judicael Tokam\Desktop\seg3503\seg3503_playground\lab67\BookstoreApp)'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '2026-07-25 11:22:34.511  INFO 2868 --- [           main] seg3102.bookstore.Bookstore1Application  : Starting Bookstore1Application v0.0.1-SNAPSHOT on DESKTOP-NC9OFT4 with PID 2868 (C:\Users\Judicael Tokam\Desktop\seg3503\seg3503_playground\lab67\BookstoreApp\bookstore5.jar started by Judicael Tokam in C:\Users\Judicael Tokam\Desktop\seg3503\seg3503_playground\lab67\BookstoreApp)'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+
+# Created at 2026-07-25T11:22:35.946
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '2026-07-25 11:22:35.946  INFO 2868 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '2026-07-25 11:22:35.946  INFO 2868 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+
+# Created at 2026-07-25T11:22:36.089
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '2026-07-25 11:22:36.089  INFO 2868 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 123ms. Found 1 repository interfaces.'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '2026-07-25 11:22:36.089  INFO 2868 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 123ms. Found 1 repository interfaces.'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+
+# Created at 2026-07-25T11:22:36.845
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '2026-07-25 11:22:36.845  INFO 2868 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$ce061441] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '2026-07-25 11:22:36.845  INFO 2868 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$ce061441] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+
+# Created at 2026-07-25T11:22:37.519
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '2026-07-25 11:22:37.519  INFO 2868 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '2026-07-25 11:22:37.519  INFO 2868 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+
+# Created at 2026-07-25T11:22:37.585
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '2026-07-25 11:22:37.582  INFO 2868 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '2026-07-25 11:22:37.582  INFO 2868 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+
+# Created at 2026-07-25T11:22:37.590
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '2026-07-25 11:22:37.583  INFO 2868 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '2026-07-25 11:22:37.583  INFO 2868 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+
+# Created at 2026-07-25T11:22:37.683
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '2026-07-25 11:22:37.683  INFO 2868 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '2026-07-25 11:22:37.683  INFO 2868 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+
+# Created at 2026-07-25T11:22:37.687
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '2026-07-25 11:22:37.683  INFO 2868 --- [           main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3069 ms'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '2026-07-25 11:22:37.683  INFO 2868 --- [           main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3069 ms'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+
+# Created at 2026-07-25T11:22:38.105
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '2026-07-25 11:22:38.103  INFO 2868 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '2026-07-25 11:22:38.103  INFO 2868 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+
+# Created at 2026-07-25T11:22:38.289
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '2026-07-25 11:22:38.289  INFO 2868 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '2026-07-25 11:22:38.289  INFO 2868 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+
+# Created at 2026-07-25T11:22:38.435
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '2026-07-25 11:22:38.429  INFO 2868 --- [           main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo ['.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '2026-07-25 11:22:38.429  INFO 2868 --- [           main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo ['.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+
+# Created at 2026-07-25T11:22:38.439
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '	name: default'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '	name: default'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+
+# Created at 2026-07-25T11:22:38.446
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '	...]'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '	...]'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+
+# Created at 2026-07-25T11:22:38.587
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '2026-07-25 11:22:38.587  INFO 2868 --- [           main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.3.9.Final}'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '2026-07-25 11:22:38.587  INFO 2868 --- [           main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.3.9.Final}'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+
+# Created at 2026-07-25T11:22:38.593
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '2026-07-25 11:22:38.589  INFO 2868 --- [           main] org.hibernate.cfg.Environment            : HHH000206: hibernate.properties not found'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '2026-07-25 11:22:38.589  INFO 2868 --- [           main] org.hibernate.cfg.Environment            : HHH000206: hibernate.properties not found'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+
+# Created at 2026-07-25T11:22:38.805
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '2026-07-25 11:22:38.805  INFO 2868 --- [           main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.0.4.Final}'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '2026-07-25 11:22:38.805  INFO 2868 --- [           main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.0.4.Final}'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+
+# Created at 2026-07-25T11:22:39.070
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '2026-07-25 11:22:39.070  INFO 2868 --- [           main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '2026-07-25 11:22:39.070  INFO 2868 --- [           main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+
+# Created at 2026-07-25T11:22:39.732
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '2026-07-25 11:22:39.732  INFO 2868 --- [           main] o.h.t.schema.internal.SchemaCreatorImpl  : HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@53c68ce''.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '2026-07-25 11:22:39.732  INFO 2868 --- [           main] o.h.t.schema.internal.SchemaCreatorImpl  : HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@53c68ce''.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+
+# Created at 2026-07-25T11:22:39.738
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '2026-07-25 11:22:39.738  INFO 2868 --- [           main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default''.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '2026-07-25 11:22:39.738  INFO 2868 --- [           main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default''.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+
+# Created at 2026-07-25T11:22:40.518
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '2026-07-25 11:22:40.517  WARN 2868 --- [           main] o.s.security.core.userdetails.User       : User.withDefaultPasswordEncoder() is considered unsafe for production and is only intended for sample applications.'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '2026-07-25 11:22:40.517  WARN 2868 --- [           main] o.s.security.core.userdetails.User       : User.withDefaultPasswordEncoder() is considered unsafe for production and is only intended for sample applications.'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+
+# Created at 2026-07-25T11:22:40.910
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '2026-07-25 11:22:40.910  INFO 2868 --- [           main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor''.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '2026-07-25 11:22:40.910  INFO 2868 --- [           main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor''.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+
+# Created at 2026-07-25T11:22:41.795
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '2026-07-25 11:22:41.795  INFO 2868 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '''.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '2026-07-25 11:22:41.795  INFO 2868 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '''.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+
+# Created at 2026-07-25T11:22:41.805
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '2026-07-25 11:22:41.795  INFO 2868 --- [           main] seg3102.bookstore.Bookstore1Application  : Started Bookstore1Application in 7.911 seconds (JVM running for 8.528)'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '2026-07-25 11:22:41.795  INFO 2868 --- [           main] seg3102.bookstore.Bookstore1Application  : Started Bookstore1Application in 7.911 seconds (JVM running for 8.528)'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+
+# Created at 2026-07-25T11:22:45.168
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '2026-07-25 11:22:45.168  INFO 2868 --- [nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet''.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '2026-07-25 11:22:45.168  INFO 2868 --- [nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet''.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+
+# Created at 2026-07-25T11:22:45.176
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '2026-07-25 11:22:45.168  INFO 2868 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet''.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '2026-07-25 11:22:45.168  INFO 2868 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet''.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+
+# Created at 2026-07-25T11:22:45.183
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '2026-07-25 11:22:45.183  INFO 2868 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 15 ms'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '2026-07-25 11:22:45.183  INFO 2868 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 15 ms'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+
+# Created at 2026-07-25T11:22:47.866
+ForkStarter IOException:  falling back to default profiles: default
+ database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+ [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@54e02f6a, org.springframework.security.web.context.SecurityContextPersistenceFilter@6f911326, org.springframework.security.web.header.HeaderWriterFilter@423b2b62, org.springframework.security.web.authentication.logout.LogoutFilter@315f09ef, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@268cbb86, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@6e4f263e, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@5f481b73, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@17f3eefb, org.springframework.security.web.session.SessionManagementFilter@6ad16c5d, org.springframework.security.web.access.ExceptionTranslationFilter@127a7272, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@2bc378f7].
+org.apache.maven.plugin.surefire.booterclient.output.MultipleFailureException:  falling back to default profiles: default
+ database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+ [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@54e02f6a, org.springframework.security.web.context.SecurityContextPersistenceFilter@6f911326, org.springframework.security.web.header.HeaderWriterFilter@423b2b62, org.springframework.security.web.authentication.logout.LogoutFilter@315f09ef, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@268cbb86, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@6e4f263e, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@5f481b73, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@17f3eefb, org.springframework.security.web.session.SessionManagementFilter@6ad16c5d, org.springframework.security.web.access.ExceptionTranslationFilter@127a7272, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@2bc378f7]
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.<init>(ThreadedStreamConsumer.java:58)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer.<init>(ThreadedStreamConsumer.java:110)
+	at org.apache.maven.plugin.surefire.booterclient.ForkStarter.fork(ForkStarter.java:594)
+	at org.apache.maven.plugin.surefire.booterclient.ForkStarter.run(ForkStarter.java:282)
+	at org.apache.maven.plugin.surefire.booterclient.ForkStarter.run(ForkStarter.java:245)
+	at org.apache.maven.plugin.surefire.AbstractSurefireMojo.executeProvider(AbstractSurefireMojo.java:1183)
+	at org.apache.maven.plugin.surefire.AbstractSurefireMojo.executeAfterPreconditionsChecked(AbstractSurefireMojo.java:1011)
+	at org.apache.maven.plugin.surefire.AbstractSurefireMojo.execute(AbstractSurefireMojo.java:857)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:126)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.doExecute2(MojoExecutor.java:328)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.doExecute(MojoExecutor.java:316)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:212)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:174)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.access$000(MojoExecutor.java:75)
+	at org.apache.maven.lifecycle.internal.MojoExecutor$1.run(MojoExecutor.java:162)
+	at org.apache.maven.plugin.DefaultMojosExecutionStrategy.execute(DefaultMojosExecutionStrategy.java:39)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:159)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:105)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:73)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:53)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:118)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:261)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:173)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:101)
+	at org.apache.maven.cli.MavenCli.execute(MavenCli.java:919)
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:285)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:207)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:255)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:201)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:361)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:314)
+
+
